@@ -1,0 +1,73 @@
+body,html{
+    height: 100%;
+}
+
+audio{
+    position: absolute;
+    top: 30;
+    right: 0;
+    visibility: hidden;
+}
+
+#p1{
+    font-family: helvetica, san-serif;
+    font-size: 25px;
+    font-style: oblique;
+    color: midnightblue;
+}
+
+#button1{
+    background-color: lightblue;
+}
+
+div.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 390px;
+    background-color: mediumturquoise;
+}
+
+div.gallery:hover{
+    border: 1px solid #777;
+}
+
+div.gallery img{
+    width: 100%;
+    height: auto;
+}
+
+div.desc{
+    padding: 15px;
+    text-align: center;
+    font-family: times new roman, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+a:visited, a:link{
+    color: black;
+}
+
+.nav-link:hover, .nav-link:focus{
+    color: black;
+    background-color: steelblue;
+}
+.nav-link{
+    font-family: "Arial", San-serif;
+    font-size: 20px;
+}
+#title1{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+.dropdown-item{
+    font-family: "Arial", San-serif;
+    font-weight: bold;
+}

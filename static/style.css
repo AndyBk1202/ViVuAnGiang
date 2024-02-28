@@ -1,0 +1,9 @@
+.title1{
+    font-family: "Arial", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+p, .text-start {
+    font-family:"Helvetica", Sans-serif;
+    font-size: 20px;
+}
